@@ -19,7 +19,7 @@
 - :seedling: &nbsp;I’m currently exploring **ML**, **LLM** and other **AI-Related things**
 - :speech_balloon: &nbsp;I like to talk about tech that is **lightweight**, **open-sourced** and **debloated**
 - :book: &nbsp;Learn more about my projects/tech thoughts on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]** or **[email me]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <a href="#manueloso-title">
@@ -107,3 +107,4 @@
 [linkedin]: https://www.linkedin.com/in/manuel-rg "Emanuele Rega LinkedIn"
 [environment]: https://github.com/manueloso
 [blog]: https://mn.bearblog.dev
+[email me]: mailto:emanuele@rega.codes
