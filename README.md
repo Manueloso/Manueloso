@@ -12,9 +12,7 @@
   <a href="https://github.com/Manueloso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Manueloso?style=flat&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+
 </p>
 
 - :office: &nbsp;I'm currently working on the project **[Musaic]** 
