@@ -15,12 +15,8 @@
 
 </p>
 
-- :office: &nbsp;I'm currently working on the project **[Musaic]** 
-- :seedling: &nbsp;I’m currently exploring **ML**, **LLM** and other **AI-Related things**
 - :speech_balloon: &nbsp;I like to talk about tech that is **lightweight**, **open-sourced** and **debloated**
-- :book: &nbsp;Learn more about my projects/tech thoughts on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]** or **[email me]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <a href="#manueloso-title">
   <img src="https://raw.githubusercontent.com/Manueloso/github-stats/master/generated/overview.svg" alt="mrtaln"/>
